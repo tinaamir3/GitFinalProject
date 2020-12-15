@@ -1,0 +1,19 @@
+.container {
+  border: 1px solid black;
+  border-radius: 7px;
+  box-shadow: 45px 35px 101px -14px;
+  margin: 50px;
+  padding: 10px;
+  background-image: linear-gradient(#7f7fd5, #86a8e7, #91eae4);
+}
+h1 {
+  font-family: Arial, Helvetica, sans-serif;
+}
+ul {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+li {
+  list-style: none;
+  margin: 0 auto;
+}
